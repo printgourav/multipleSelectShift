@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  position relative;
+  padding-left:50px;
+  padding-top: 150px;
+  justify-content: center;
+  background-color:#000000;
+}
+.title {
+	color: #5C6AC4;
+}
